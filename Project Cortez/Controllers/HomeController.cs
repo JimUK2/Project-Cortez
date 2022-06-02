@@ -16,6 +16,7 @@ namespace Project_Cortez.Controllers
         public IActionResult Index()
         {
             var x = 1;
+            var y=10;
             return View();
         }
 
